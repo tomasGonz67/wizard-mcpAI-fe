@@ -1,4 +1,4 @@
-# React + Vite
+# Frontend for app that generates an AI promt, and uses MCP to connect this AI app to Facebook.
 
 ### Tech Stack: NextJS, Vite (Dev/ Deployment)
 
