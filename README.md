@@ -1,15 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Tech Stack: NextJS, Vite (Dev/ Deployment)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
+<h3>The posts that this app generates are only available for show on my personal Facebook accounts. I believe this is due to the fact that the Facebook app is not live. However it will still work and generate a proper response. It is stil a fullstack app that goes from the front end, to the backend, to my Facebook page. I will try and fix this as soon as possible. Sorry.</h3>
 How to run locally -> git clone, npm install, npm run dev.
-hosted on: https://wizardy-ai-mcp.vercel.app/
+
+Front end site: https://wizardy-ai-mcp.vercel.app/ Backend hosted on https://wizard-mcpai-be.onrender.com/ with render
